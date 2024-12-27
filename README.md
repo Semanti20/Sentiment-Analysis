@@ -14,6 +14,7 @@ Model Evaluation: The model's performance is assessed using metrics like confusi
 Prediction: A function predicts the sentiment of new text inputs.
 
 Expected Outcomes:
+
 A trained model for sentiment prediction.
 
 Sentiment scores for text.
